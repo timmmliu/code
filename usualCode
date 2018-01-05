@@ -1,0 +1,2 @@
+String[] array = String.valueOf(num).split("");//将数字转为字符串数组
+        Arrays.sort(array, Collections.reverseOrder());数组倒序排列
